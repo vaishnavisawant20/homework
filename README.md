@@ -1,1 +1,2 @@
-dfghjwerty# homework
+What is cloud computing ?
+ans: 
